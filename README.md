@@ -1,1 +1,1 @@
-# spiking-deep-residual-networks
+# Spiking Deep Residual Networks
