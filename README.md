@@ -3,3 +3,7 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 
 ## Dependencies
 * [MatConvNet](https://github.com/vlfeat/matconvnet)
+
+## How to use
+* [Installing and compiling the MatConvNet](https://www.vlfeat.org/matconvnet/install/)
+* Copy 
