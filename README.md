@@ -18,6 +18,6 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 * Find activations for weight normalization. 
 
 ## ImageNet
-* Use pre-trained ANN models from [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html).
+* Use pre-trained ANN models from this [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html).
 * Find activations for weight normalization.
 * Conversion and test. 
