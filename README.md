@@ -37,4 +37,5 @@ run matconvnet/examples/cifar100/ann2snn.m
 * Use pre-trained ANN models from this [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html).
 * Find activations for weight normalization.  
 run matconvnet/examples/imagenet/find_activations_single_pt.m
-* Conversion and test. 
+* Conversion and test.  
+run matconvnet/examples/imagenet ann2snn_res18_centre_pt.m
