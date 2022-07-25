@@ -6,13 +6,18 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 
 ## How to use
 * [Installing and compiling MatConvNet](https://www.vlfeat.org/matconvnet/install/)
-* Copy 
+* Merge the directory  
 
 ## CIFAR-10
-
+* Train ANN models 
+* Find activations for weight normalization.
+* Conversion and test. 
 
 ## CIFAR-100
-
+* Train ANN models
+* Find activations for weight normalization. 
 
 ## ImageNet
-Pre-trained ANN models from [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html)
+* Use pre-trained ANN models from [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html).
+* Find activations for weight normalization.
+* Conversion and test. 
