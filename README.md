@@ -8,6 +8,12 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 * [Installing and compiling MatConvNet](https://www.vlfeat.org/matconvnet/install/)
 * Merge the matconvnet directory with installed MatConvNet library. 
 
+## MNISTS
+* Train ANN models
+* Find activations for weight normalization.
+* Conversion and test. 
+
+
 ## CIFAR-10
 * Train ANN models 
 * Find activations for weight normalization.
