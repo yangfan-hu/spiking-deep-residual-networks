@@ -10,6 +10,7 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 
 ## MNISTS
 * Train ANN models
+run matconvnet/examples/mnist/mytrans_mnist_beta.m
 * Find activations for weight normalization.
 * Conversion and test. 
 
