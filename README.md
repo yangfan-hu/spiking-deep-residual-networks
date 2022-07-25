@@ -13,19 +13,28 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 run matconvnet/examples/mnist/mytrans_mnist_beta.m
 * Find activations for weight normalization.  
 run matconvnet/examples/mnist/find_activation_single_gpu.m
-* Conversion and test. 
+* Conversion and test.  
+run matconvnet/examples/mnist/ann2snn.m
 
 
 ## CIFAR-10
-* Train ANN models 
-* Find activations for weight normalization.
-* Conversion and test. 
+* Train ANN models  
+run matconvnet/examples/cifar10/mytrans_mnist_beta.m
+* Find activations for weight normalization.  
+run matconvnet/examples/cifar10/find_activation_single_gpu.m
+* Conversion and test.  
+run matconvnet/examples/cifar10/ann2snn.m
 
 ## CIFAR-100
-* Train ANN models
-* Find activations for weight normalization. 
+* Train ANN models  
+run matconvnet/examples/cifar100/mytrans_mnist_beta.m
+* Find activations for weight normalization.  
+run matconvnet/examples/cifar100/find_activation_single_gpu.m
+* Conversion and test.
+run matconvnet/examples/cifar100/ann2snn.m
 
 ## ImageNet
 * Use pre-trained ANN models from this [link](https://www.robots.ox.ac.uk/~albanie/mcn-models.html).
-* Find activations for weight normalization.
+* Find activations for weight normalization.  
+run matconvnet/examples/imagenet/find_activations_single_pt.m
 * Conversion and test. 
