@@ -6,7 +6,7 @@ This repo holds the codes for [Spiking Deep Residual Networks](https://doi.org/1
 
 ## How to use
 * [Installing and compiling MatConvNet](https://www.vlfeat.org/matconvnet/install/)
-* Merge the directory  
+* Merge the matconvnet directory with installed MatConvNet library. 
 
 ## CIFAR-10
 * Train ANN models 
