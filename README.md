@@ -31,7 +31,7 @@ run matconvnet/examples/cifar10/ann2snn.m
 run matconvnet/examples/cifar100/mytrans_mnist_beta.m
 * Find activations for weight normalization.  
 run matconvnet/examples/cifar100/find_activation_single_gpu.m
-* Conversion and test.
+* Conversion and test.  
 run matconvnet/examples/cifar100/ann2snn.m
 
 ## ImageNet
